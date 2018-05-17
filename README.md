@@ -1,6 +1,7 @@
-# react-ui-kits
-A collection of useful React.js UI kits. (descriptions from their repos)
+# React UI Kits and Component Libraries
+A collection of useful React.js UI kits and component libraries. (descriptions from their repos)
 
+## Full UI Kits
 - [React Semantic UI](https://react.semantic-ui.com/introduction) --
 The official Semantic-UI-React integration.
 - [Evergreen](http://evergreen.surge.sh/get-started/introduction) --
@@ -29,3 +30,11 @@ React components that implement Google's Material Design.
 A React-based UI toolkit for the web.
 - [Belle](http://nikgraf.github.io/belle/) --
 Configurable React Components with great UX
+- [React Toolbox](http://react-toolbox.io/#/) --
+Bootstrap your application with beautiful Material Design Components
+
+## Component Libraries
+- [Khan React Components](http://khan.github.io/react-components/) --
+reusable components by Khan Academy
+- [React Virtualized](https://bvaughn.github.io/react-virtualized/#/components/List) --
+React components for efficiently rendering large lists and tabular data.
