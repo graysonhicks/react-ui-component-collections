@@ -27,3 +27,5 @@ React components that implement Google's Material Design.
 🐜 A UI Design Language
 - [Blueprint](http://blueprintjs.com/) --
 A React-based UI toolkit for the web.
+- [Belle](http://nikgraf.github.io/belle/) --
+Configurable React Components with great UX
