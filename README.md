@@ -30,6 +30,8 @@ React components that implement Google's Material Design.
 A React-based UI toolkit for the web.
 - [Belle](http://nikgraf.github.io/belle/) --
 Configurable React Components with great UX
+- [Gestalt](https://pinterest.github.io/gestalt/#/) --
+A set of React UI components that supports Pinterest’s design language.
 - [React Toolbox](http://react-toolbox.io/#/) --
 Bootstrap your application with beautiful Material Design Components
 
