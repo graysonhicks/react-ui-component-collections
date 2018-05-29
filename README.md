@@ -34,6 +34,8 @@ Configurable React Components with great UX
 A set of React UI components that supports Pinterest’s design language.
 - [React Toolbox](http://react-toolbox.io/#/) --
 Bootstrap your application with beautiful Material Design Components
+- [SmoothUI](https://smooth-ui.smooth-code.com/) --
+Smooth UI is an open source components library built with React and Styled Components.
 
 ## Component Libraries
 - [Khan React Components](http://khan.github.io/react-components/) --
