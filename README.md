@@ -36,6 +36,8 @@ A set of React UI components that supports Pinterest’s design language.
 Bootstrap your application with beautiful Material Design Components
 - [SmoothUI](https://smooth-ui.smooth-code.com/) --
 Smooth UI is an open source components library built with React and Styled Components.
+- [IBM Carbon](https://github.com/carbon-design-system/carbon-components-react) --
+The Carbon Design System is a series of individual styles and components, that when combined make beautiful, intuitive designs.
 
 ## Component Libraries
 - [Khan React Components](http://khan.github.io/react-components/) --
