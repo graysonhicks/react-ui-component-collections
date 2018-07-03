@@ -38,6 +38,8 @@ Bootstrap your application with beautiful Material Design Components
 Smooth UI is an open source components library built with React and Styled Components.
 - [IBM Carbon](https://github.com/carbon-design-system/carbon-components-react) --
 The Carbon Design System is a series of individual styles and components, that when combined make beautiful, intuitive designs.
+- [Cosmos](https://auth0-cosmos.now.sh/) -- 
+Auth0 design system.
 
 ## Component Libraries
 - [Khan React Components](http://khan.github.io/react-components/) --
