@@ -6,9 +6,9 @@ A collection of useful React.js UI kits and component libraries. (descriptions f
 The official Semantic-UI-React integration.
 - [Evergreen](http://evergreen.surge.sh/get-started/introduction) --
 🌲 Evergreen React UI Framework by Segment
-- [AtlasKit](https://atlaskit.atlassian.com/)
+- [AtlasKit](https://atlaskit.atlassian.com/) --
 Official Atlassian component library.
-- [Reakit](https://reakit.io/)
+- [Reakit](https://reakit.io/) --
 Build accessible rich web apps with React
 - [Reas](https://reas.js.org/) --
 Toolkit for building interactive UIs with React
