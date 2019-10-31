@@ -42,6 +42,8 @@ Smooth UI is an open source components library built with React and Styled Compo
 The Carbon Design System is a series of individual styles and components, that when combined make beautiful, intuitive designs.
 - [Cosmos](https://auth0-cosmos.now.sh/) -- 
 Auth0 design system.
+- [ChakraUI](https://chakra-ui.com/) -- 
+Chakra UI is a simple, modular and accessible component library that gives you all the building blocks you need to build your React applications.
 
 ## Component Libraries
 - [Khan React Components](http://khan.github.io/react-components/) --
