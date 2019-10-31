@@ -46,6 +46,9 @@ Auth0 design system.
 Chakra UI is a simple, modular and accessible component library that gives you all the building blocks you need to build your React applications.
 - [Ionic React](https://ionicframework.com/docs/react/your-first-app) -- 
 Ionic Framework is an open source UI toolkit for building performant, high-quality mobile and desktop apps using web technologies (HTML, CSS, and JavaScript).
+- [Polaris](https://polaris.shopify.com/components/get-started) -- 
+The component library was designed to help developers quickly create the best experience for Shopify merchants.
+
 
 ## Component Libraries
 - [Khan React Components](http://khan.github.io/react-components/) --
