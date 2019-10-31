@@ -44,6 +44,8 @@ The Carbon Design System is a series of individual styles and components, that w
 Auth0 design system.
 - [ChakraUI](https://chakra-ui.com/) -- 
 Chakra UI is a simple, modular and accessible component library that gives you all the building blocks you need to build your React applications.
+- [Ionic React](https://ionicframework.com/docs/react/your-first-app) -- 
+Ionic Framework is an open source UI toolkit for building performant, high-quality mobile and desktop apps using web technologies (HTML, CSS, and JavaScript).
 
 ## Component Libraries
 - [Khan React Components](http://khan.github.io/react-components/) --
