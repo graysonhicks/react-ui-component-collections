@@ -48,6 +48,8 @@ Chakra UI is a simple, modular and accessible component library that gives you a
 Ionic Framework is an open source UI toolkit for building performant, high-quality mobile and desktop apps using web technologies (HTML, CSS, and JavaScript).
 - [Polaris](https://polaris.shopify.com/components/get-started) -- 
 The component library was designed to help developers quickly create the best experience for Shopify merchants.
+- [MUI](https://www.muicss.com/docs/v1/react/introduction) --
+The MUI React library is designed from the ground up to be fast, small and developer-friendly. 
 
 
 ## Component Libraries
