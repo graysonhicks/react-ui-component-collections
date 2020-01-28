@@ -57,3 +57,5 @@ The MUI React library is designed from the ground up to be fast, small and devel
 reusable components by Khan Academy
 - [React Virtualized](https://bvaughn.github.io/react-virtualized/#/components/List) --
 React components for efficiently rendering large lists and tabular data.
+- [React PDF Viewer](https://github.com/phuoc-ng/react-pdf-viewer) --
+A PDF viewer made for React
