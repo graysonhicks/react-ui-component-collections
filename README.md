@@ -50,9 +50,8 @@ Ionic Framework is an open source UI toolkit for building performant, high-quali
 The component library was designed to help developers quickly create the best experience for Shopify merchants.
 - [MUI](https://www.muicss.com/docs/v1/react/introduction) --
 The MUI React library is designed from the ground up to be fast, small and developer-friendly. 
-
-
-## Component Libraries
+- [Braid](https://seek-oss.github.io/braid-design-system/) --
+From SEEK OSS, Braid aims to make cross-brand UI development as fast as possible while maintaining a high level of quality and accessibility.
 - [Khan React Components](http://khan.github.io/react-components/) --
 reusable components by Khan Academy
 - [React Virtualized](https://bvaughn.github.io/react-virtualized/#/components/List) --
