@@ -1,7 +1,6 @@
 # React UI Kits and Component Libraries
 A collection of useful React.js UI kits and component libraries. (descriptions from their repos)
 
-## Full UI Kits
 - [React Semantic UI](https://react.semantic-ui.com/introduction) --
 The official Semantic-UI-React integration.
 - [Evergreen](http://evergreen.surge.sh/get-started/introduction) --
